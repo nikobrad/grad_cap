@@ -1,6 +1,9 @@
 # Graduation Cap 2018
 Animated 8x8 LED matrix for Drexel University Graduation 2018. 
 
+Demonstration:
+https://www.youtube.com/watch?v=ncr7uGH0_k0
+
 ### Hardware:
 - Adafruit ItsyBitsy 32u4 - 5V 16MHz (https://www.adafruit.com/product/3677)
 - Adafruit 16x8 LED Matrix Driver Backpack - HT16K33 Breakout (https://www.adafruit.com/product/1427)
